@@ -83,7 +83,6 @@ article p {
   width: 150px;
   height: 150px;
   
-  background-image: url('../images/marvelSprites.jpg');
 }
 
 #carol { background-position: -150px 0; }
